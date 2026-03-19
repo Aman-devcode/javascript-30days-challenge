@@ -1,0 +1,32 @@
+# Day 4 - Color Changer App
+
+This is my Day 4 project of the 30 Days JavaScript Challenge.
+
+## Project Description
+A simple web application that allows users to change the background color of the page by clicking different buttons.
+
+##  Features
+- Change background color (Red, Green, Blue)
+- Interactive UI with buttons
+- Fast and responsive design
+- Easy to use
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+##  Project Structure
+index.html
+style.css
+script.js
+  ## How to Use
+1. Open the website
+2. Click on any color button (Red, Green, Blue)
+3. Background color will change instantly
+
+##  Live Demo
+https://aman-devcode.github.io/javascript-30days-challenge/Day4/
+
+##  Author
+Aman Kumar
