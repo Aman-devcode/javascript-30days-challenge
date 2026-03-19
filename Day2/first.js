@@ -25,19 +25,6 @@ let [a,b] = getValues();
 document.getElementById("result").innerText = "Result: " + (a / b);
 }
 
-let a= git_test;
-----------------------
-
-
-
-
-
-
-
-
-
-
-------------------------
 
 
 
@@ -51,4 +38,11 @@ let a= git_test;
 
 
 
-------------
+
+
+
+
+
+
+
+
