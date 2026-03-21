@@ -1,0 +1,32 @@
+# Day 5 - Multiplication Table Generator
+
+This is my Day 5 project of the 30 Days JavaScript Challenge.
+
+##  Project Description
+A simple web application that generates a multiplication table based on the number entered by the user.
+
+##  Features
+- Generate table from 1 to 10
+- Dynamic output display
+- Input validation (handles empty input)
+- Simple and clean UI
+
+##  Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Project Structure
+index.html
+style.css
+script.js
+## How to Use
+1. Enter a number
+2. Click on "Generate"
+3. Multiplication table will be displayed
+
+##  Live Demo
+https://aman-devcode.github.io/javascript-30days-challenge/Day5/
+
+##  Author
+Aman Kumar pandit
